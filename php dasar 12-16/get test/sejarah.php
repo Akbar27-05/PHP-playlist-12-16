@@ -1,0 +1,2 @@
+<h1>sejarah em wan</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, pariatur! Nam placeat dicta laborum tenetur quo. Sapiente rerum laborum sequi, ad, hic minima sunt temporibus amet pariatur repellendus quis est?</p>
